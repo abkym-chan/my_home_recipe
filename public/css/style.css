@@ -1,0 +1,100 @@
+@charset "UTF-8";
+
+h1 {
+    color: #333;
+    font-size: 25px;
+    margin: 20px 0;
+    padding: 5px;
+}
+h2 {
+    color: #333;
+    font-size: 18px;
+    margin: 3px 0;
+    padding: 0;
+}
+
+/* common */
+.hidden {
+    display: none;
+}
+
+.logo {
+    width: 250px;
+    height: 80px;
+}
+.bg-img {
+    min-height: 100vh;
+    background-image: url("../images/onigiri50.png");
+    background-size: cover;
+    background-position: center 60%;
+}
+header {
+    height: 100px;
+    background-color: blanchedalmond;
+    }
+footer {
+    background-color: blanchedalmond;
+    height: 50px;
+    width: 100%;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+    }
+.background-img {
+    min-height: 100vh;
+    background-image: url("../images/pan44.png");
+    background-size: cover;
+    background-position: center;
+}
+.bg-light {
+    min-height: 100vh;
+    background-size: cover;
+}
+.navbar {
+    background-color: blanchedalmond;
+}
+.th_l {
+    width: 350px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.th-s {
+    width: 300px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.form {
+    width: 90%;
+}
+.font {
+    font-weight: bold;
+    font-size: 20px;
+    white-space: nowrap;
+}
+.width_1 {
+    width: 50px;
+    align-items: center;
+}
+.width_2 {
+    width:500px;
+    align-items: center;
+}
+.width_3 {
+    width: 115px;
+}
+img {
+    width: 400px;
+    height: 400px;
+}
+.item {
+    font-weight: bold;
+    white-space: nowrap;
+}
+.table_th {
+    text-align: center;
+}
+.detail_img {
+    width: 150px;
+    height: 150px;
+}
